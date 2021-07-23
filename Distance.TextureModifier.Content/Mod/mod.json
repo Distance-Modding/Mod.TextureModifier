@@ -1,0 +1,12 @@
+﻿{
+	"FriendlyName": "Texture Modifier",
+	"Description": "Replace textures randomly with custom images.",
+	"Author": "Reherc",
+	"Contact": "Github: @REHERC",
+	"ModuleFileName": "Distance.TextureModifier.dll",
+	"RequiredGSLs": [
+		"com.github.reherc/Centrifuge.Distance"
+	],
+	"SkipLoad": false,
+	"Priority": 10
+}
